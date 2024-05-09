@@ -15,22 +15,7 @@ Here's a bit about me and what I'm interested in:
 6. Experience in database administration (MS SQL, MYSQL, PostgreSQL);
 7. Configuration/administration of network equipment (switches, routers (Mikrotik, UNIFI, CISCO, FORTINET etc.));
 8. Experience in IP (Asterisk) and analog (Samsung, Panasonic, LG) telephony configuration/administration;
-9. Experience in installing and managing corporate networks, office wiring, installing sockets, patch panels, server racks, laying electrical networks, installing switchgear and automatic machines, connecting LED lighting.
-10. Analog and IP video surveillance (Dahua, Hikvision, Samsing) 
-11. Installation of access control systems, Ajax alarms, intercoms
-12. Experience in repairing computer and peripheral equipment;
-
-<!--
-**Snetlab/snetlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+9. Experience in installing and managing corporate networks, office wiring, installing sockets, patch panels, server racks, laying electrical networks, installing switchgear and automatic machines, connecting LED lighting;
+10. Analog and IP video surveillance (Dahua, Hikvision, Samsing); 
+11. Installation of access control systems, Ajax alarms, intercoms;
+12. Experience in repairing computer and peripheral equipment.
